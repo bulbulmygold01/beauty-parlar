@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Beauty Center</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Icon Font -->
+    <link rel="stylesheet" href="assets/css/et-line.css">
+    <!-- Plugins css file -->
+    <link rel="stylesheet" href="assets/css/plugins.css">
+    <!-- Main style -->
+    <link rel="stylesheet" href="assets/style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <!-- Modernizr JS -->
+    <script src="assets/js/vendor/modernizr.min.js"></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5JCTSSF');
+    </script>
+    <!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JCTSSF" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Start Header Section -->
+    <div class="header-section section sticker">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="header-top">
+                        <!-- Logo -->
+                        <div class="logo">
+                            <a href="index.html" class="non-sticky"><img src="assets/img/logo.png" alt="Brancy Care HTML template"></a>
+                            <a href="index.html" class="sticky-logo"><img src="assets/img/logo.png" alt="Brancy Care HTML template"></a>
+                        </div>
+                        <!-- Logo -->
+                        <div class="button-buy">
+                            <a class="buy-btn top-btn smooth-scroll-link" target="_blank" href="https://1.envato.market/e4J3nO">buy Beuaty Center</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header Section End -->
+
+    <!-- Start Hero Section -->
+    <div class="hero-section section overlay" style="background-image: url('assets/img/slider-landing.webp')">
+        <div class="container">
+            <div class="row">
+                <div class="hero-content text-center col-12">
+                    <h1><strong>Beauty Center</strong> Cosmetic & Beauty Salon </h1>
+                    
+                    <a class="buy-btn" href="#section-demo">View Demo</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero Section End -->
+    <!-- Start Demo Section -->
+    <div id="section-demo" class="demo-section section bg-gray">
+        <div class="bg-white">
+            <div class="container pt-120 pb-70">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/index.html" class="image">
+                                <img src="assets/img/demo/12.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/index.html">Home</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/index-two.html" class="image">
+                                <img src="assets/img/demo/10.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/index-two.html">Home Two</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/about-us.html" class="image">
+                                <img src="assets/img/demo/11.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/about-us.html">About Us</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/my-account.html" class="image">
+                                <img src="assets/img/demo/15.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/my-account.html">Account</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/page-not-found.html" class="image">
+                                <img src="assets/img/demo/14.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/page-not-found.html">Services</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/contact.html" class="image">
+                                <img src="assets/img/demo/13.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/contact.html">Contact Us</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-gray">
+            <div class="container pt-120 pb-70">
+                <div class="row">
+                    <div class="col-lg-12 text-center mb-50">
+                        <h2>Shop Beauty Center</h2>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/product.html" class="image">
+                                <img src="assets/img/demo/16.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/product.html">SPA Beuaty Center</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/product-four-columns.html" class="image">
+                                <img src="assets/img/demo/17.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/product-four-columns.html">Makeup Beauty Center</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/product-left-sidebar.html" class="image">
+                                <img src="assets/img/demo/18.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/product-left-sidebar.html">Wedding Beauty Center</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/product-right-sidebar.html" class="image">
+                                <img src="assets/img/demo/19.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/product-right-sidebar.html">Beauty Parlar</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/product-details.html" class="image">
+                                <img src="assets/img/demo/20.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/product-details.html">Fashion House</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/product-details-normal.html" class="image">
+                                <img src="assets/img/demo/21.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/product-details-normal.html">Man Beaurty Cenetr Service</a></h4>
+                        </div>
+                    </div>
+                    
+        </div>
+        <div class="bg-white">
+            <div class="container pt-120 pb-70">
+                <div class="row">
+                    <div class="col-lg-12 text-center mb-50">
+                        <h1>Testimonial</h1>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/blog.html" class="image">
+                                <img src="assets/img/demo/22.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/blog.html">Alex Gailey</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/blog-left-sidebar.html" class="image">
+                                <img src="assets/img/demo/23.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/blog-left-sidebar.html">Orchide Smarth</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/blog-right-sidebar.html" class="image">
+                                <img src="assets/img/demo/24.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/blog-right-sidebar.html">Askine Anderson</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 mb-50">
+                        <div class="demo-item">
+                            <a href="brancy/blog-details.html" class="image">
+                                <img src="assets/img/demo/25.jpg" alt="Brancy Care HTML template">
+                                <i class="icon-magnifying-glass"></i>
+                            </a>
+                            <h4 class="title"><a href="brancy/blog-details.html">Will Smith</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Demo Section -->
+
+   
+
+    <!-- Start Footer Section -->
+    <div class="footer-section section pt-65 pb-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 d-flex justify-content-between flex-md-row flex-column text-center">
+                    <h1>This web Site Create by @Bulbul islam @ Beauty Center .</h1>
+                    <a class="buy-btn bottom-btn" target="_blank" href="https://1.envato.market/e4J3nO">buy Beauty Center</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Footer Section -->
+
+
+    <!-- Placed JS at the end of the document so the pages load faster -->
+    <!-- jQuery latest version -->
+    <script src="assets/js/vendor/jquery.min.js"></script>
+    <!-- Plugins js -->
+    <script src="assets/js/plugins.js"></script>
+
+    <!-- Main js -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
